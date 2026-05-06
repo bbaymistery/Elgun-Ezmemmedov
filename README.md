@@ -1,9 +1,9 @@
 # Hi there, I'm Elgun Ezmemmedov 👋
 ### **Senior Frontend Engineer | React & Next.js Expert**
 
-I am a product-oriented Frontend Developer with over 5 years of experience in building scalable, high-performance web architectures. For the past 4 years, I have been working as a Remote Developer for London-based projects, including leading the development of aplcars.com and several other international web platforms.
+I am a product-oriented Frontend Developer with over **5 years of experience** in building scalable, high-performance web architectures. For the past 4 years, I have been working as a **Remote Developer for London-based projects**, including leading the development of [aplcars.com](https://aplcars.com) along with several other international web platforms.
 
-Currently, I am expanding my expertise into Backend Development, building full-stack applications using the MERN stack to create end-to-end solutions.
+Currently, I am expanding my expertise into **Backend Development**, building full-stack applications using the **MERN stack** to create end-to-end solutions.
 
 ---
 
