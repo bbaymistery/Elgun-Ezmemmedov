@@ -19,7 +19,7 @@ Currently, I am expanding my expertise into **Backend Development**, building fu
 * **Performance:** Consistently achieving **Lighthouse scores of 90+** by implementing SSR, code splitting, and lazy loading.
 * **Optimization:** Boosted SEO visibility and reduced initial page load times by **20%** through advanced Next.js techniques.
 * **AI-Assisted Development:** Expert in leveraging **Cursor**, **Antigravity**, and **LLM Integration** to accelerate development cycles and enhance code quality.
-* **Community Leadership:** Founder and Organizer of **Speak Socially**, an international networking community with over 200+ hosted events.
+* **Community Leadership:** Founder and Organizer of **Speak Socially** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/speak__socially/), an international networking community with over 200+ hosted events.
 
 ---
 
