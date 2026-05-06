@@ -27,12 +27,6 @@ Currently, I am expanding my expertise into **Backend Development**, building fu
 * **Process & Collaboration:** Agile / Scrum, Backlog Prioritization, Task Refinement, Cross-functional Collaboration.
 * **Design & SEO:** Figma, Core Web Vitals, SSR / SSG / ISR, Technical SEO.
 
----
-
-### 📊 **GitHub Stats**
-![Elgun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbaymistery&show_icons=true&theme=dark&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbaymistery&layout=compact&theme=dark&v=1)
----
 
 ### 📫 **Connect with Me**
 * **Email:** [elgun.ezmemmedov@gmail.com](mailto:elgun.ezmemmedov@gmail.com)
