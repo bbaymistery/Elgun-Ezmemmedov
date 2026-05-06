@@ -46,7 +46,8 @@ Currently, I am expanding my expertise into **Backend Development**, building fu
 
 
 ### 📫 **Connect with Me**
-* **Email:** [elgun.ezmemmedov@gmail.com](mailto:elgun.ezmemmedov@gmail.com)
-* **WhatsApp (Europe):** [+447365678714](https://wa.me/447365678714)
-* **WhatsApp (Azerbaijan):** [+994506330135](https://wa.me/994506330135)
-* **LinkedIn:** [linkedin.com/in/elgun-ezmemmedov](https://www.linkedin.com/in/elgun-ezmemmedov](https://www.linkedin.com/in/elgun-ezmemmedov-1628a51b4/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elgun-ezmemmedov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgun.ezmemmedov@gmail.com)
+[![WhatsApp (EU)](https://img.shields.io/badge/WhatsApp_(EU)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447365678714)
+[![WhatsApp (AZ)](https://img.shields.io/badge/WhatsApp_(AZ)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/994506330135)
