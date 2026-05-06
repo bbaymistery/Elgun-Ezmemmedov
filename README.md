@@ -38,4 +38,4 @@ Currently, I am expanding my expertise into **Backend Development**, building fu
 * **Email:** [elgun.ezmemmedov@gmail.com](mailto:elgun.ezmemmedov@gmail.com)
 * **WhatsApp (Europe):** [+447365678714](https://wa.me/447365678714)
 * **WhatsApp (Azerbaijan):** [+994506330135](https://wa.me/994506330135)
-* **LinkedIn:** [linkedin.com/in/elgun-ezmemmedov](https://www.linkedin.com/in/elgun-ezmemmedov)
+* **LinkedIn:** [linkedin.com/in/elgun-ezmemmedov](https://www.linkedin.com/in/elgun-ezmemmedov-1628a51b4/?skipRedirect=true)
